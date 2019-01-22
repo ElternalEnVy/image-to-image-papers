@@ -54,7 +54,7 @@ __TOC__
 | dilated conv, improve shape deform. | GANimorph    | Improved Shape Deformation in Unsupervised Image to Image Translation | ECCV 2018  | [1808.04325](https://arxiv.org/abs/1808.04325)               | [brownvc/ganimorph](https://github.com/brownvc/ganimorph/)   |
 | video                               | Recycle-GAN  | Recycle-GAN: Unsupervised Video Retargeting                  | ECCV 2018  | [1808.05174](https://arxiv.org/abs/1808.05174)               | [aayushbansal/Recycle-GAN](https://github.com/aayushbansal/Recycle-GAN) |
 |                                     | OT-CycleGAN  | Guiding the One-to-one Mapping in CycleGAN via Optimal Transport | AAAI 2019  | [1811.06284](https://arxiv.org/abs/1811.06284)               |                                                              |
-
+|             One-shot                         | OST  | One-Shot Unsupervised Cross Domain Translation | NIPS 2018  | [1806.06029](https://arxiv.org/abs/1806.06029)               |    [sagiebenaim/OneShotTranslation](https://github.com/sagiebenaim/OneShotTranslation)                                            | 
 
 
 ### Unsupervised - Attention or Mask guided
