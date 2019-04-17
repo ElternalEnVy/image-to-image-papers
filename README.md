@@ -67,7 +67,7 @@ __TOC__
 | attention            | Attention guided GAN | Unsupervised Attention-guided Image to Image Translation     | NIPS 2018  | [1806.02311](https://arxiv.org/abs/1806.02311)         | [AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation](https://github.com/AlamiMejjati/Unsupervised-Attention-guided-Image-to-Image-Translation) |
 | attention, one-sided |                      | Show, Attend and Translate: Unsupervised Image Translation with Self-Regularization and Attention |            | [1806.06195](https://arxiv.org/abs/1806.06195)         |                                                              |
 | instance aware       | InstaGAN             | Instance-aware image-to-image translation                    | ICLR 2019  | [openreview](https://openreview.net/pdf?id=ryxwJhC9YX) | [sangwoomo/instagan](https://github.com/sangwoomo/instagan)  |
-
+| Semantic Patch memory bank       | Art2Real             | Art2Real: Unfolding the Reality of Artworks via Semantically-Aware Image-to-Image Translation                    |CVPR 2019  | [1811.10666](https://arxiv.org/abs/1811.10666) |  |
 
 
 ### Unsupervised - Many-to-many (Attributes)
